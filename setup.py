@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='PingdomLib',
-    version='2.0.3',
+    version='2.0.3+work4.0',
     author='Kenneth Wilke',
     author_email='kenneth.wilke@rackspace.com',
     packages=['pingdomlib'],
